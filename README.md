@@ -1,12 +1,10 @@
 # Hello there
-I am Juan Pablo Diaz Lombana
-I am currenly a student of **Universidad del Valle** in Colombia.
-I love giving instruction to a computer and to see those instructions reflected on the hardware.
-All my programming skills come mainly from self teaching by reading forums and watching videos.
-I can understand and speak Spanish, English and Japanese, although my speaking skills are a bit low.
-## What I program on
+I'm Juan Pablo Diaz Lombana
+I have studied at **Universidad del Valle** in Colombia.
+I'm a Systems Engineer, with a Bachelor Degree on Engineering.
+I love thinkering with software and hardware in order to produce useful systems.
+I can understand and speak Spanish, English and Japanese, and I'm continuously learning to be even better.
+## Programming Skills
 - Python 3
 - Java
-- A little of C++ (I am still learning)
-- HTML
-- PHP
+- JavaScript
